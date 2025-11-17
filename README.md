@@ -67,9 +67,6 @@ Conventional linear controllers often struggle with nonlinear, parameter-varying
 - **Training Data**: PID controlled response logs (80 % train / 20 % test)  
 - **Implementation**: MATLAB Neural Network Toolbox & Simulink block integration
 
-<p align="center">
-  <img src="https://github.com/Kushu-Shuklal/ANN-PID-Controller/blob/main/assets/architecture.png" alt="ANN Architecture Diagram" width="500">
-</p>
 
 ---
 
@@ -83,10 +80,6 @@ Conventional linear controllers often struggle with nonlinear, parameter-varying
 | Adaptability          | Fixed tuning | **Adaptive to variations** |
 
 > The ANN controller shows a **faster response**, **better stability**, and **closer match to the reference model** than the conventional PID controller.
-
-<p align="center">
-  <img src="https://github.com/Kushu-Shukla/ANN-PID-Controller/blob/main/assets/comparison_plot.png" alt="PID vs ANN Graph" width="600">
-</p>
 
 ---
 
