@@ -68,7 +68,7 @@ Conventional linear controllers often struggle with nonlinear, parameter-varying
 - **Implementation**: MATLAB Neural Network Toolbox & Simulink block integration
 
 <p align="center">
-  <img src="https://github.com/Kushagra-Chandel/ANN-PID-Controller/blob/main/assets/architecture.png" alt="ANN Architecture Diagram" width="500">
+  <img src="https://github.com/Kushu-Shuklal/ANN-PID-Controller/blob/main/assets/architecture.png" alt="ANN Architecture Diagram" width="500">
 </p>
 
 ---
@@ -85,7 +85,7 @@ Conventional linear controllers often struggle with nonlinear, parameter-varying
 > The ANN controller shows a **faster response**, **better stability**, and **closer match to the reference model** than the conventional PID controller.
 
 <p align="center">
-  <img src="https://github.com/Kushagra-Chandel/ANN-PID-Controller/blob/main/assets/comparison_plot.png" alt="PID vs ANN Graph" width="600">
+  <img src="https://github.com/Kushu-Shukla/ANN-PID-Controller/blob/main/assets/comparison_plot.png" alt="PID vs ANN Graph" width="600">
 </p>
 
 ---
@@ -114,12 +114,9 @@ This project was completed under the guidance of mentors & faculty. Special than
 ---
 
 ### 👤 Author
+ Kushu Shukla
+ Email - kushushukla24@gmail.com
 
-### ✅ What This Version Achieves:
 
-* **Research paper + GitHub project** hybrid look
-* Recruiter, professor, and developer **sabko samajh aata hai instantly**
-* Proper visual structure, icons, and comparison table make it *premium quality*
-* Abstract, Motivation, Outline → convey academic clarity
-* Architecture diagram & graph placeholders ready (add `.png` to `/assets` folder)
+
 
